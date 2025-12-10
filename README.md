@@ -1,6 +1,6 @@
 
 # Título
-## ChatBot com IA usando Streamlit e OpenAI
+## ChatBot com AI usando Streamlit e OpenAI
 
 ---
 
@@ -20,4 +20,4 @@ gerenciamento do estado da conversa.
 """
 ---
 
-![Imagem da Tela IA](./assets/png/imagens/tela1.PNG)
+![Imagem da Tela AI](./assets/png/imagens/tela1.PNG)
